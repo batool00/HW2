@@ -1,21 +1,18 @@
 Lab 05 - Nobel laureates
 ================
 
-Team Name:
+Team Name:g5
 
 Team Members - Name and Student ID
 
-1.  
-2.  
-3.  
-4.  
+1.batool ,2201003400
 
 ## Packages
 
 Load tidyverse below
 
 ``` r
-library(tidyverse)
+ library(tidyverse)
 ```
 
 ## Data
@@ -40,7 +37,8 @@ dim(nobel)
 
     ## [1] 935  26
 
-Each row represents information about a nobel prize winner.
+observations 935 variables 26 Each row represents information about a
+nobel prize winner. Represents the information of Nobel Prize winners
 
 1.  Create a new data frame called `nobel_living` that filters for
 
